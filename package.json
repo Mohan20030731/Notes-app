@@ -1,0 +1,16 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "A simple notes application",
+  "main": "app.js",
+  "bin": {
+    "notes": "app.js"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
