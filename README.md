@@ -7,7 +7,7 @@ A simple Node.js command-line tool to manage notes and files with HTTPS support.
 1. Install:
 
 ```bash
-git clone https://github.com/yourusername/notes.git
+git clone https://github.com/Mohan20030731/Notes-app
 cd notes
 npm install
 Generate SSL certs (for HTTPS):
